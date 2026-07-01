@@ -54,7 +54,7 @@ password-strength-analyzer/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/password-strength-analyzer.git
+git clone https://github.com/sneha-65/password-strength-analyzer.git
 ```
 
 Move into the project directory
